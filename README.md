@@ -30,6 +30,4 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelickau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-#### [Portfolio](https://lelickau-portfolio.web.app/)
 
